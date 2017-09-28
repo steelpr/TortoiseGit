@@ -1,3 +1,8 @@
 homework
+<<<<<<< HEAD
 exercise !
 changes with gitbash 
+=======
+exercise
+changes with gitbash !
+>>>>>>> FirstBranch
